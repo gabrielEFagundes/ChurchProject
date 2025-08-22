@@ -15,6 +15,7 @@
     {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
     {"name":"Sons","order":3,"path":"folders/Sons.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"CP_V1.0.4_nyknck","order":9,"path":"folders/Sprites/CP_V1.0.4_nyknck.yy",},
     {"name":"SERENE_VILLAGE_REVAMPED","order":8,"path":"folders/Sprites/SERENE_VILLAGE_REVAMPED.yy",},
     {"name":"Animated stuff","order":3,"path":"folders/Sprites/SERENE_VILLAGE_REVAMPED/Animated stuff.yy",},
     {"name":"Construct 3","order":4,"path":"folders/Sprites/SERENE_VILLAGE_REVAMPED/Construct 3.yy",},
@@ -26,6 +27,7 @@
   "ResourceOrderSettings":[
     {"name":"obj_wall","order":1,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"room_lobby","order":1,"path":"rooms/room_lobby/room_lobby.yy",},
+    {"name":"room_outside","order":2,"path":"rooms/room_outside/room_outside.yy",},
     {"name":"__door","order":1,"path":"sprites/__door/__door.yy",},
     {"name":"B_C_D_E_Serene_Village_02","order":1,"path":"sprites/B_C_D_E_Serene_Village_02/B_C_D_E_Serene_Village_02.yy",},
     {"name":"B_C_D_E_Serene_Village_03","order":2,"path":"sprites/B_C_D_E_Serene_Village_03/B_C_D_E_Serene_Village_03.yy",},
@@ -57,6 +59,8 @@
     {"name":"water_waves_32x3226","order":15,"path":"sprites/water_waves_32x3226/water_waves_32x3226.yy",},
     {"name":"water_waves_48x48","order":16,"path":"sprites/water_waves_48x48/water_waves_48x48.yy",},
     {"name":"water_waves_48x4828","order":17,"path":"sprites/water_waves_48x4828/water_waves_48x4828.yy",},
+    {"name":"ts_city","order":3,"path":"tilesets/ts_city/ts_city.yy",},
     {"name":"ts_innerHouse","order":1,"path":"tilesets/ts_innerHouse/ts_innerHouse.yy",},
+    {"name":"ts_outside","order":2,"path":"tilesets/ts_outside/ts_outside.yy",},
   ],
 }
