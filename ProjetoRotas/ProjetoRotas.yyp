@@ -44,6 +44,7 @@
   "name":"ProjetoRotas",
   "resources":[
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"obj_transition_parent","path":"objects/obj_transition_parent/obj_transition_parent.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"room_lobby","path":"rooms/room_lobby/room_lobby.yy",},},
     {"id":{"name":"room_outside","path":"rooms/room_outside/room_outside.yy",},},

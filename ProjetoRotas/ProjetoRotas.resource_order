@@ -25,6 +25,7 @@
     {"name":"Tile_Sets","order":16,"path":"folders/Tile_Sets.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_transition_parent","order":2,"path":"objects/obj_transition_parent/obj_transition_parent.yy",},
     {"name":"obj_wall","order":1,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"room_lobby","order":1,"path":"rooms/room_lobby/room_lobby.yy",},
     {"name":"room_outside","order":2,"path":"rooms/room_outside/room_outside.yy",},
