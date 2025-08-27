@@ -23,10 +23,10 @@ if(xspd == 0){
 if(yspd > 0 && face == UP){ face = DOWN; }
 if(yspd < 0 && face == DOWN){ face = UP; }
 
-if(place_meeting(x + xspd, y, obj_wall)){
+if(place_meeting(x + xspd, y, obj_wall) || place_meeting(x + xspd, y, obj_halfwall)){
 	xspd = 0;
 }
-if(place_meeting(x, y + yspd, obj_wall)){
+if(place_meeting(x, y + yspd, obj_wall) || place_meeting(x, y + yspd, obj_halfwall)){
 	yspd = 0;
 }
 

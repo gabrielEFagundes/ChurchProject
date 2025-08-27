@@ -8,7 +8,7 @@
     "TileSerialiseData":[],
   },
   "name":"ts_outside",
-  "out_columns":88,
+  "out_columns":29,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"Serene_Village_48x48",
-    "path":"sprites/Serene_Village_48x48/Serene_Village_48x48.yy",
+    "name":"Serene_Village_16x16",
+    "path":"sprites/Serene_Village_16x16/Serene_Village_16x16.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
@@ -34,5 +34,5 @@
   "tileWidth":16,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":7695,
+  "tile_count":855,
 }
