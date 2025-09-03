@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_tree_tiny",
+  "%Name":"obj_bush",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_tree_tiny",
+  "name":"obj_bush",
   "overriddenProperties":[],
   "parent":{
     "name":"obj_nature",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_tree_tiny",
-    "path":"sprites/spr_tree_tiny/spr_tree_tiny.yy",
+    "name":"spr_bush",
+    "path":"sprites/spr_bush/spr_bush.yy",
   },
   "spriteMaskId":null,
   "visible":true,

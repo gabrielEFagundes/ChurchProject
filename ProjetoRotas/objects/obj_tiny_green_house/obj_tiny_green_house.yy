@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_tree_tiny",
+  "%Name":"obj_tiny_green_house",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_tree_tiny",
+  "name":"obj_tiny_green_house",
   "overriddenProperties":[],
   "parent":{
-    "name":"obj_nature",
-    "path":"folders/Objetos/objects_elements/obj_nature.yy",
+    "name":"obj_buildings",
+    "path":"folders/Objetos/objects_elements/obj_buildings.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_tree_tiny",
-    "path":"sprites/spr_tree_tiny/spr_tree_tiny.yy",
+    "name":"spr_tiny_green_house",
+    "path":"sprites/spr_tiny_green_house/spr_tiny_green_house.yy",
   },
   "spriteMaskId":null,
   "visible":true,
