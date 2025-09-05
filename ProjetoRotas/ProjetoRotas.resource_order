@@ -57,7 +57,6 @@
     {"name":"obj_tree_big_03","order":4,"path":"objects/obj_tree_big_03/obj_tree_big_03.yy",},
     {"name":"obj_tree_tiny","order":1,"path":"objects/obj_tree_tiny/obj_tree_tiny.yy",},
     {"name":"obj_wall","order":1,"path":"objects/obj_wall/obj_wall.yy",},
-    {"name":"room_lobby","order":1,"path":"rooms/room_lobby/room_lobby.yy",},
     {"name":"room_outside","order":2,"path":"rooms/room_outside/room_outside.yy",},
     {"name":"__door","order":1,"path":"sprites/__door/__door.yy",},
     {"name":"B_C_D_E_Serene_Village_02","order":1,"path":"sprites/B_C_D_E_Serene_Village_02/B_C_D_E_Serene_Village_02.yy",},

@@ -80,7 +80,6 @@
     {"id":{"name":"obj_tree_big_03","path":"objects/obj_tree_big_03/obj_tree_big_03.yy",},},
     {"id":{"name":"obj_tree_tiny","path":"objects/obj_tree_tiny/obj_tree_tiny.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
-    {"id":{"name":"room_lobby","path":"rooms/room_lobby/room_lobby.yy",},},
     {"id":{"name":"room_outside","path":"rooms/room_outside/room_outside.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"__Campfire","path":"sprites/__Campfire/__Campfire.yy",},},
@@ -154,7 +153,6 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"room_lobby","path":"rooms/room_lobby/room_lobby.yy",},},
     {"roomId":{"name":"room_outside","path":"rooms/room_outside/room_outside.yy",},},
   ],
   "templateType":"game",
