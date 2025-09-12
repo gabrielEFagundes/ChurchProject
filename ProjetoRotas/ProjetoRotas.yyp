@@ -201,8 +201,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"room_outside","path":"rooms/room_outside/room_outside.yy",},},
     {"roomId":{"name":"fight_room","path":"rooms/fight_room/fight_room.yy",},},
+    {"roomId":{"name":"room_outside","path":"rooms/room_outside/room_outside.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

@@ -1,3 +1,4 @@
+/*
 if(button_i >= buttons.length() || button_i <= 0){
 	button_i = 0;
 	
@@ -9,5 +10,6 @@ if(button_i >= buttons.length() || button_i <= 0){
 		button_i -= 1;
 	}
 }
+*/
 
 // essa é a lógica básica
