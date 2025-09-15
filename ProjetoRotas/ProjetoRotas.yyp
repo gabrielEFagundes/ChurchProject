@@ -172,6 +172,7 @@
     {"id":{"name":"spr_red_comercial","path":"sprites/spr_red_comercial/spr_red_comercial.yy",},},
     {"id":{"name":"spr_refrigerator","path":"sprites/spr_refrigerator/spr_refrigerator.yy",},},
     {"id":{"name":"spr_river_corners","path":"sprites/spr_river_corners/spr_river_corners.yy",},},
+    {"id":{"name":"spr_selected_button","path":"sprites/spr_selected_button/spr_selected_button.yy",},},
     {"id":{"name":"spr_sign","path":"sprites/spr_sign/spr_sign.yy",},},
     {"id":{"name":"spr_stone_big","path":"sprites/spr_stone_big/spr_stone_big.yy",},},
     {"id":{"name":"spr_stone_small","path":"sprites/spr_stone_small/spr_stone_small.yy",},},

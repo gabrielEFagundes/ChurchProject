@@ -126,6 +126,7 @@
     {"name":"spr_recyclebin","order":9,"path":"sprites/spr_recyclebin/spr_recyclebin.yy",},
     {"name":"spr_red_comercial","order":1,"path":"sprites/spr_red_comercial/spr_red_comercial.yy",},
     {"name":"spr_refrigerator","order":10,"path":"sprites/spr_refrigerator/spr_refrigerator.yy",},
+    {"name":"spr_selected_button","order":3,"path":"sprites/spr_selected_button/spr_selected_button.yy",},
     {"name":"spr_sign","order":4,"path":"sprites/spr_sign/spr_sign.yy",},
     {"name":"spr_stone_big","order":7,"path":"sprites/spr_stone_big/spr_stone_big.yy",},
     {"name":"spr_stone_small","order":6,"path":"sprites/spr_stone_small/spr_stone_small.yy",},
