@@ -1,8 +1,11 @@
 var btnX = [270, 255, 240];
 var btnY = [130, 165, 200];
 
-for (var i = 0; i < btnSize; i++) {
+for (i = 0; i < btnSize; i++) {
     var color = (i == button_i) ? c_yellow : c_white;
+	if(i == button_i){
+		draw_sprite(spr_selected_button, 0, btnX[i], btnY[i]);
+	}
 
     draw_sprite_ext(
 		buttons[i],
@@ -15,8 +18,10 @@ for (var i = 0; i < btnSize; i++) {
 		color,
 		1
 	);
-	draw_sprite(arrow[i], 0, btnX[i] + 50, btnY[i] + 8);
+	
+	if(i == button_i){
+		draw_sprite(spr_selected_button, image_index, btnX[i] + 70, btnY[i] + 9);
+	}
 }
 
 draw_set_color(c_white);
-// tem alguns bugs pra corrigir

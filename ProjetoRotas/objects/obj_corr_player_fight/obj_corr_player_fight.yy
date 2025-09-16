@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_transition",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_corr_player_fight",
+  "eventList":[],
   "managed":true,
-  "name":"obj_transition",
+  "name":"obj_corr_player_fight",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"fightObjects",
+    "path":"folders/rFight/fightObjects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_collision",
-    "path":"sprites/spr_collision/spr_collision.yy",
+    "name":"spr_corr_player_fight",
+    "path":"sprites/spr_corr_player_fight/spr_corr_player_fight.yy",
   },
   "spriteMaskId":null,
   "visible":true,

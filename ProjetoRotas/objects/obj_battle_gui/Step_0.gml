@@ -9,3 +9,16 @@ if(button_i >= btnSize)
 
 if(button_i < 0)
 	button_i = 2;
+
+/*	
+if(i == button_i){
+	if(keyboard_check(ord("Z"))){
+		show_message("Sim");
+	}
+}
+*/
+
+
+	
+// só pra controlar a velocidade do sprite da seta	
+image_speed = 0.1;
