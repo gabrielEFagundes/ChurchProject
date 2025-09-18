@@ -1,4 +1,4 @@
-var btnX = [200, 185, 170];
+var btnX = [190, 175, 160];
 var btnY = [130, 165, 200];
 
 for (i = 0; i < btnSize; i++) {
@@ -23,5 +23,6 @@ for (i = 0; i < btnSize; i++) {
 		draw_sprite(spr_selected_button, image_index, btnX[i] + 70, btnY[i] + 9);
 	}
 }
+
 
 draw_set_color(c_white);

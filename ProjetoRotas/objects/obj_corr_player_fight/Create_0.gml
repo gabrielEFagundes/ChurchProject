@@ -1,5 +1,4 @@
-dir = 1;
-move_spd = 4;
-
-accel = 0.1;
-final_spd = 4;
+base = 25;
+amplitude = 5;
+spd = 0.05;
+time = 0;

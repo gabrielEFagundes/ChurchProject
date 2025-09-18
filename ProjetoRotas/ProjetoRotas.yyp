@@ -112,6 +112,7 @@
     {"id":{"name":"fight_room","path":"rooms/fight_room/fight_room.yy",},},
     {"id":{"name":"room_outside","path":"rooms/room_outside/room_outside.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
+    {"id":{"name":"snd_click","path":"sounds/snd_click/snd_click.yy",},},
     {"id":{"name":"__Campfire","path":"sprites/__Campfire/__Campfire.yy",},},
     {"id":{"name":"__door","path":"sprites/__door/__door.yy",},},
     {"id":{"name":"Autotiles_no_inner_corners_16x16","path":"sprites/Autotiles_no_inner_corners_16x16/Autotiles_no_inner_corners_16x16.yy",},},
