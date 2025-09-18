@@ -1,4 +1,4 @@
-var btnX = [270, 255, 240];
+var btnX = [200, 185, 170];
 var btnY = [130, 165, 200];
 
 for (i = 0; i < btnSize; i++) {
