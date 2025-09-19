@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"func_reduce_life",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"func_reduce_life",
+  "parent":{
+    "name":"fightScripts",
+    "path":"folders/rFight/fightScripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

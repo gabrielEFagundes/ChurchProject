@@ -12,6 +12,17 @@ if(button_i < 0)
 
 if(keyboard_check_pressed(ord("Z"))){
 	audio_play_sound(snd_click,10,false);
+	
+	if(button_i = 0){
+		func_action("ATK");
+		
+	}else if(button_i == 1){
+		func_action("ACT");
+		
+	}else if(button_i == 2){
+		func_action("HEAL");
+		
+	}
 }
 
 	
